@@ -1,0 +1,55 @@
+# Node.js
+node_modules/
+
+# Logs
+logs
+*.log
+
+# Dependency directories
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# dotenv environment file
+.env
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# VS Code
+.vscode/
+
+# Sublime
+.sublime-project
+.sublime-workspace
+
+# Database
+*.sqlite
+
+# Sass
+.sass-cache/
+
+# Compiled binary addons (node-gyp)
+build/
+
+# Next.js
+.next/
+
+# Nuxt.js
+.nuxt/
+
+# Nest.js
+dist/
